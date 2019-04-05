@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div class="card deep-purple lighten-2 white-text">
+	<img src="camh_rgb_background_transparent.png" width="400px" style="margin-top:20px;">
+	<h3>Scientific Computing Fundamentals for Researchers</h3>
+	<h5>Nov 20th - Nov 30th, 2018</h5>
+</div>
+
+
+<!-- big mess: find an easier way to do this. Includes aren't really making
+	this more readable, so maybe go back to static? -->
+<div class="row">
+	{% include registration.html 
+		title="Register with CAMH email"
+		description="<p>The workshop series is <strong>FREE</strong> for all
+		 	CAMH students, staff, and trainees</p>
+			<p><i>Please sign up with a CAMH email address, so that we know who you are!.</i></p>"  
+		url="https://www.eventbrite.ca/e/scientific-computing-fundamentals-for-camh-researchers-november-2018-tickets-50239967094" 
+		url-text="Register"
+	%}
+	
+	{% include registration.html 
+		title="Non-CAMH Registration"
+		description="<p>All others are welcome to join us for $5 per hour ($5-10 per course).
+		<br>
+		We’ve capped the cost to external users at $100 for unlimited courses. Please email scwg@camh.ca for more details.</p>"  
+		url="https://www.eventbrite.ca/e/scientific-computing-fundamentals-november-2018-tickets-50239964085" url-text="Register & Pay"
+	%}
+</div>	
+
+<div>
+	<a name="why"><h3>WHY?</h3></a>
+
+	<p>Our research is increasingly more computationally-driven and training is often not part of the core curriculum for biomedical / medical science degrees.
+ 
+The Scientific Computing Workshops at CAMH are focused on building computing skills and fundamentals to help organize study data, automate repeatable/reproducible analyses, and make use of CAMH computing resources to save time.
+ 
+The workshops offer a range of topics and support different levels of experience.
+ 
+We use a shared dataset - spanning demographic, cognitive, imaging, and genomic data - across all workshop, maintaining consistency across the series.
+ 
+If you have questions, send us an email at SCWG@camh.ca</p>	
+</div>
+
+<div><a name="required-software"><h3>Required Software</h3></a>
+	<ul class="collapsible" data-collapsible="accordion">
+		{% include required-software.html %}
+	</ul>
+</div>
+
+<a name="eventcalendar"><h3>Calendar of Events</h3></a>
+<div id="calendar"></div>
+
+
+<a name="descriptions"><h3>Course Descriptions</h3></a>
+
+
+<ul class="collapsible" data-collapsible="accordion">
+	{{ site.courses | sort: "start"}}
+</ul>
+
+<script>
+	{% include fullcalendar.js %}
+</script>

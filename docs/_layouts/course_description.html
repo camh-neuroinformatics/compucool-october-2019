@@ -1,0 +1,30 @@
+<li>
+	<!-- For the collapsible header:
+
+	In anchor tag, remove the leading # from permalink, as that's required for links in the calendar
+	to work correctly. However, when making an <a> it's not
+
+	format is: Title - Start time (Day of Month, Month @ hh:mm am/pm) - End Time (mm:hh am/pm), room number
+
+	-->
+
+	<div class="collapsible-header"><span id="{{ page.permalink | remove: "compucool-november-2018/#"}}">{{ page.title }} - {{ page.start | date: "%a %e @ %I:%M %p" }} - {{ page.end | date: "%I:%M %p" }}, {{ page.room }}</span></div>
+	<div class="collapsible-body left-align">
+		<span>
+			<strong>Instructor:</strong> {{ page.instructor }} <br>
+
+			<!-- if there is no helper, don't display that section-->
+			{% if page.helper != nil %}<strong>Helper(s): {{ page.helper }} </strong><br> {% endif %}
+
+			<strong>Description:</strong> {{ content }} <br>
+
+			<strong>You'll learn:</strong><br>
+			 {{ page.learn}}
+
+			<strong>Prerequisites:</strong> {{ page.prerequisites }}<br>
+
+			<strong>You'll need:</strong> {{ page.requirements }} <br>
+			<p><a href="#calendar">Back to Calendar</a></p>
+		</span>
+	</div>		
+</li>

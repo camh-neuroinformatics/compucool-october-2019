@@ -1,0 +1,14 @@
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Computing Skills Workshop for Researchers"
+keywords:    "CAMH, research, computing, scientific computing, workshop"
+description: "A 6 day long series of self-paced computing skills fundamentals workshops for CAMH researchers"
+root:        "https://camh-neuroinformatics.github.io/compucool-november-2018"
+sources_link: "https://camh-neuroinformatics.github.io/compucool-november-2018"
+collections: 
+    - courses
+    
