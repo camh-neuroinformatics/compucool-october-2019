@@ -23,7 +23,7 @@
 
 			<strong>Prerequisites:</strong> {{ page.prerequisites }}<br>
 
-			<strong>Course material:</strong> {{ page.course-material}}
+			{% if page.course-material != nil %}<strong>Course material:</strong> {{ page.course-material }} <br> {% endif %}
 
 			<strong>You'll need:</strong> {{ page.requirements }} <br>
 			<p><a href="#calendar">Back to Calendar</a></p>
