@@ -6,7 +6,7 @@ end: "2018-05-27T15:00:00"
 permalink: "compucool-may-2019/#course-abrev"
 room: "CS 12th Floor (KCNI), Radiance"
 instructor: "Your Name Here"
-helper: "Optional. Leave this field blank if there is no helper."
+helper: "Optional. Leave this field blank with no quotation marks if there is no helper."
 audience: "Who is this course for."
 learn: "<ul><li>bulleted list</li>
     <li>things people will learn</li>
