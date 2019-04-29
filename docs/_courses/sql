@@ -1,0 +1,18 @@
+---
+layout: course_description
+title: "Introduction into SQL"
+start: "2019-05-28T9:00:00"
+end: "2019-05-28T11:00:00"
+permalink: "compucool-may-2019/#introsql"
+room: "CS 12th Floor (KCNI), Radiance"
+instructor: "Natalia Potapova"
+helper: "Nikola Bogetic"
+audience: ""
+learn: "Basic SQL syntax:
+<ul><li>SQL commands</li>
+<li>filtering records</li>
+<li>quering data from multiple tables</li>
+<li>grouping records to calculate means etc</li></ul>"
+prerequisites: "Basic knowledge of data tables (Excel)"
+requirements: "You will need to bring your own laptop. Please install Toad [link will be provided later] on your laptop."
+---

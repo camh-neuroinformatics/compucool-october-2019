@@ -1,0 +1,16 @@
+--- 
+layout: course_description 
+title: "Introduction to R" 
+start: "2019-05-29T13:00:00" 
+end: "2019-05-29T15:00:00" 
+permalink: "compucool-may-2019/#intro-to-r" 
+room: "CS 12th Floor (KCNI), Radiance" 
+instructor: "Erin" 
+learn: "You’ll learn:
+<ul><li>Reading you data into and R dataframe</li>
+<li>Sorting/merging/filtering your data tables</li>
+<li>Getting summary statistics</li></ul>"
+prerequisites: "Familiarity with another programming language"
+requirements: "A laptop with R and R studio installed."
+---
+R is a free, featureful and sometimes magical language for doing statistical analysis. This workshop will introduce you to R and the Rstudio enviroment.
