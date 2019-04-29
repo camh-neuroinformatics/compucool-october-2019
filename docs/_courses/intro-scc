@@ -14,6 +14,7 @@ learn: "<ul><li>About the CAMH Compute Cluster</li>
     <li>How the cluster queue handles requests.</li>
     <li>Data transfer / management best-practices.</li></ul>"
 prerequisites: "Introduction to Linux Shell"
+course-material: "Provided in the workshop"
 requirements: "A computer and a temporary user account will be provided to you. Software to connect to the cluster is also provided."
 ---
 

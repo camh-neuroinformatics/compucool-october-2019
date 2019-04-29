@@ -7,12 +7,13 @@ permalink: "compucool-may-2019/#parallel-scc"
 room: "CS 12th Floor (KCNI), Radiance"
 instructor: "Nikola Bogetic"
 helper: "Andy Wang"
-audience:""
+audience: ""
 learn: "<ul><li>Parallel Computing on the CAMH Compute Cluster.</li>
     <li>Writing scripts to run analyses in parallel.</li>
     <li>Submitting parallel jobs to the CAMH Cluster .</li>
     <li>GNU Parallel & ‘qbatch’ packages.</li></ul>"
 prerequisites: "Introduction to the CAMH Compute Cluster"
+course-material: "Provided in the workshop"
 requirements: "A computer and a temporary user account will be provided to you. Software to connect to the cluster is also provided."
 ---
 
