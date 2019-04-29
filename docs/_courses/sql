@@ -14,5 +14,6 @@ learn: "Basic SQL syntax:
 <li>quering data from multiple tables</li>
 <li>grouping records to calculate means etc</li></ul>"
 prerequisites: "Basic knowledge of data tables (Excel)"
+course-material: "Provided in the workshop"
 requirements: "You will need to bring your own laptop. Please install Toad [link will be provided later] on your laptop."
 ---
