@@ -35,7 +35,7 @@ $(document).ready(function(){
 
 		// loop through dates array and see if matches event's date
 	    eventClick: function(calEvent, jsEvent, view) {
-	    	var id = -1; 
+	    	var id = 0; 
 	    	for (i = 0; i < dates.length; i++){
 	    		// use momentjs framework to convert Moment object to correct format
 	    		if(moment(calEvent.start).format().toString() == dates[i]) {
