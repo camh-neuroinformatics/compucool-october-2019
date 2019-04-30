@@ -43,7 +43,7 @@ $(document).ready(function(){
 	    		}
 	    	}
 
-	        $('.collapsible').collapsible('open', id); // open the collapsible at that index number
+	        $('.collapsible').collapsible('open', id - 1); // open the collapsible at that index number
 	    }
 	});
 });
