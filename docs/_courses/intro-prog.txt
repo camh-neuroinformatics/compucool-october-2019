@@ -11,5 +11,5 @@ audience: "Come here if you'd like to learn about programming, but have little t
 learn: "<ul><li>What is programming, anyway?</li><li>Essential programming concepts, such as sequencing, loops, conditionals, functions, variables, and datatypes</li></ul>"
 prerequisites: "None"
 course-material: ""
-requirements: "A laptop. We'll be working with python, but you don't need it installed."
+requirements: "Please bring a laptop. We'll be working with python, but you don't need it installed."
 ---

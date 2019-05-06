@@ -15,6 +15,6 @@ learn: "<ul><li>About Linux & Bash</li>
     <li>Loops</li>
     <li>Scripts</li></ul>"
 prerequisites: "None"
-requirements: "A computer and a temporary user account will be provided to you."
+requirements: "Please bring a laptop. A temporary user account will be provided to you."
 ---
 This session is designed to give you a solid understanding of Linux and the command line. 

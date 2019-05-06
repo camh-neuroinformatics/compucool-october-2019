@@ -12,6 +12,6 @@ Reorganize/Reshape your dataset with tidyr and dplyr
 Quickly create stats tables
 Plotting and visualization with ggplot2"
 prerequisites: "Basic familiarity with R (i.e. Introduction to R)"
-requirements: "A laptop with R and R studio installed."
+requirements: "Please bring a laptop with R and R studio installed."
 ---
 You know the basic functionality of R, but the hardest part is getting your data in order. In this workshop you’ll learn some fundamental ways of organizing and manipulating datasets, as well as visualising your data.

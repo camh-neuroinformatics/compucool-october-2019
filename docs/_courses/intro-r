@@ -11,6 +11,6 @@ learn: "You’ll learn:
 <li>Sorting/merging/filtering your data tables</li>
 <li>Getting summary statistics</li></ul>"
 prerequisites: "Familiarity with another programming language"
-requirements: "A laptop with R and R studio installed."
+requirements: "Please bring a laptop with R and R studio installed."
 ---
 R is a free, featureful and sometimes magical language for doing statistical analysis. This workshop will introduce you to R and the Rstudio enviroment.

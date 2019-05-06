@@ -15,7 +15,7 @@ learn: "<ul><li>About the CAMH Compute Cluster</li>
     <li>Data transfer / management best-practices.</li></ul>"
 prerequisites: "Introduction to Linux Shell"
 course-material: "Provided in the workshop"
-requirements: "A computer and a temporary user account will be provided to you. Software to connect to the cluster is also provided."
+requirements: "Please bring a laptop. A temporary user account will be provided to you. Software to connect to the cluster is also provided."
 ---
 
 The CAMH Compute Cluster is a core resource available to all researchers at CAMH. The cluster can be used to quickly scale analyses to deal with large or complex datasets. The introduction workshop focuses on core information and first steps to begin to leverage the compute cluster for your research projects. 

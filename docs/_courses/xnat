@@ -10,5 +10,5 @@ helper: "Marcia Hon"
 audience: ""
 learn: "XNAT is a comprehensive database for the storage and management of medical imaging data including MRI, PET, EEG, CT, as well as other types of binary data such as gait measures and pathology. In this course, we follow a complete workflow starting with the use of Subject Registry, followed by XNAT, and finally Spotfire."
 prerequisites: None
-requirements: "Ready to learn."
+requirements: "Please bring a laptop."
 ---
