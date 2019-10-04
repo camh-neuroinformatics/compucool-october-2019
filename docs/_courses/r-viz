@@ -1,11 +1,11 @@
 --- 
 layout: course_description 
 title: "R Analysis and Visualization" 
-start: "2019-05-29T15:00:00" 
-end: "2019-05-29T17:00:00" 
-permalink: "compucool-may-2019/#explore-data-in-R" 
+start: "2019-10-30T15:00:00" 
+end: "2019-10-30T17:00:00" 
+permalink: "compucool-october-2019/#explore-data-in-R" 
 room: "CS 12th Floor (KCNI), Radiance" 
-instructor: "Erin"
+instructor: "Michael, Gabrielle, Dan, Erin"
 audience: "" 
 learn: "You’ll learn:
 Reorganize/Reshape your dataset with tidyr and dplyr

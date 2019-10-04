@@ -7,8 +7,8 @@ markdown: kramdown
 title:       "Computing Skills Workshop for Researchers"
 keywords:    "CAMH, research, computing, scientific computing, workshop"
 description: "A 6 day long series of self-paced computing skills fundamentals workshops for CAMH researchers"
-root:        "https://camh-neuroinformatics.github.io/compucool-may-2019"
-sources_link: "https://camh-neuroinformatics.github.io/compucool-may-2019"
+root:        "https://camh-neuroinformatics.github.io/compucool-october-2019"
+sources_link: "https://camh-neuroinformatics.github.io/compucool-october-2019"
 collections: 
     - courses
     

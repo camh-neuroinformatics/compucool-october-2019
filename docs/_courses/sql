@@ -1,11 +1,11 @@
 ---
 layout: course_description
 title: "Introduction into SQL"
-start: "2019-05-28T9:01:00"
-end: "2019-05-28T11:00:00"
-permalink: "compucool-may-2019/#introsql"
+start: "2019-10-29T9:00:00"
+end: "2019-10-29T11:00:00"
+permalink: "compucool-october-2019/#introsql"
 room: "CS 12th Floor (KCNI), Radiance"
-instructor: "Natalia Potapova"
+instructor: "Natalia Potapova/Adeel Ansari"
 helper: "Nikola Bogetic"
 audience: ""
 learn: "Basic SQL syntax:
