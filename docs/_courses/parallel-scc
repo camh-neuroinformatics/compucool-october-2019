@@ -1,8 +1,8 @@
 ---
 layout: course_description
 title: "Parallel Computing (CAMH Compute Cluster)"
-start: "2019-11-1T10:00:00"
-end: "2019-11-1T12:00:00"
+start: "2019-11-01T10:00:00"
+end: "2019-11-01T12:00:00"
 permalink: "compucool-october-2019/#parallel-scc"
 room: "CS 12th Floor (KCNI), Radiance"
 instructor: "Nikola Bogetic"
