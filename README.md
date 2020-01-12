@@ -31,3 +31,5 @@
 ~~- unlike course file names, __do not__ use leading zero on index numbers~~
 ~~- if id number is not correct or out of order, clicking on an event in the calendar will not expand the correct collapsible~~
 - now just generated automatically through the magic of Liquid and Jekyll :D
+
+Site written and maintained by Arin Bakht
